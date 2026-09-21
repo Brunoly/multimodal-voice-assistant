@@ -81,4 +81,4 @@ Esta é uma implementação experimental em desenvolvimento. O funcionamento int
 
 ## Agradecimentos
 
-We thank Instituto de Ciência e Tecnologia Itaú (ICTi) for the technical support, resources, and financial aid in the development of the research project. The authors would also like to thank the Programa de Bolsas Itaú (PBI) of the Centro de Ciência de Dados (C2D), supported by Itaú Unibanco S.A.
+Agradecemos ao Instituto de Ciência e Tecnologia Itaú (ICTi) pelo apoio técnico, pelos recursos disponibilizados e pelo auxílio financeiro para o desenvolvimento deste projeto de pesquisa. Este trabalho foi realizado com o apoio do Itaú Unibanco S.A., por meio do Programa de Bolsas Itaú (PBI), vinculado ao Centro de Ciência de Dados (C2D) da Escola Politécnica da Universidade de São Paulo.
