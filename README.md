@@ -78,3 +78,7 @@ O **Silero VAD**, integrado pelo Pipecat, identifica a atividade de fala. O **Sm
 ## Limitações atuais
 
 Esta é uma implementação experimental em desenvolvimento. O funcionamento integrado ainda precisa de validação mais ampla e de melhorias de robustez antes de poder ser tratado como um sistema estável. Entre os pontos conhecidos está a compreensão de fala em português, principalmente para palavras, nomes próprios e termos específicos.
+
+## Agradecimentos
+
+We thank Instituto de Ciência e Tecnologia Itaú (ICTi) for the technical support, resources, and financial aid in the development of the research project. The authors would also like to thank the Programa de Bolsas Itaú (PBI) of the Centro de Ciência de Dados (C2D), supported by Itaú Unibanco S.A.
