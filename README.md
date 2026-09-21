@@ -8,11 +8,12 @@ O sistema foi projetado para oferecer baixa latência e uma troca natural de tur
 
 Vídeos de demonstração com o modelo rodando localmente em uma estação de trabalho.
 
-https://github.com/user-attachments/assets/5e45d02b-3a87-438d-93b6-0b0322b98207
+https://github.com/user-attachments/assets/757f5c55-96f7-43e3-9fab-cefecfcfcd4a
 
 **Converse sobre uma imagem:**
 
-https://github.com/user-attachments/assets/bf3dbec9-7b85-474d-804d-1891ff669450
+https://github.com/user-attachments/assets/e14bb457-8a15-4d58-8f23-1d562fb8f68d
+
 
 ## Principais capacidades
 
